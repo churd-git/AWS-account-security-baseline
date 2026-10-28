@@ -1,0 +1,7 @@
+[
+    {
+        "Name": "cloud-security-lab-trail",
+        "MultiRegion": true,
+        "LogValidation": true
+    }
+]

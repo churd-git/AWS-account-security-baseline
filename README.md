@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="AWS Cloud Security Workflow" src="https://github.com/user-attachments/assets/65cb5c6f-d776-467c-adb6-14dceab351c9" />
+
+
 # AWS Account Security Baseline & CloudTrail Audit Logging
 
 ## Project Overview
